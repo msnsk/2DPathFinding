@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Get_Jewel.wav-5914e22cd3064fcd97760bd02916a92c.sample"
+
+[deps]
+
+source_file="res://Sfx/Get_Jewel.wav"
+dest_files=[ "res://.import/Get_Jewel.wav-5914e22cd3064fcd97760bd02916a92c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
